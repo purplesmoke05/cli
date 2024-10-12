@@ -1,4 +1,5 @@
-//// +build go1.21
+//go:build go1.23
+// +build go1.21
 
 /*
 Copyright 2023 The logr Authors.
